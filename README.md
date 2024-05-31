@@ -1,5 +1,5 @@
 ## Simple_java_Calculator
-java
+
 - steps that i follow to build simple java calculator 
 - step 1: imports necessay class
 - step 2: create instance
